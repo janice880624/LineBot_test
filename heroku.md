@@ -17,7 +17,7 @@ Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
 
 ![](.gitbook/assets/image.png)
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 #### step3. 按下【New】開啟選單，點選【Create new app】
 
@@ -25,7 +25,7 @@ Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
 
 #### step4. 輸入【App name】，然後點選【Create app】
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 #### step5. 到【Setting】的頁面
 
@@ -33,7 +33,9 @@ Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
 
 #### step6. 在【Config Vars】 輸入剛剛 Line 的ChannelAccessToken和ChannelSecret資訊
 
-請用複製的不要
+📢請用複製的不要自己打，它真滴很長喔!!!!
+
+![](.gitbook/assets/image%20%2819%29.png)
 
 
 
