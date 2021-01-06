@@ -22,7 +22,7 @@ LINE Developer 👉 [https://developers.line.biz/zh-hant/](https://developers.li
 
 ![](.gitbook/assets/image%20%283%29.png)
 
+### step3. 建立Messaging API Channel
 
-
-
+![](.gitbook/assets/image%20%284%29.png)
 
