@@ -3,7 +3,7 @@ description: >-
   因為要能和LineBot溝通的伺服器比須能提供https的服務，而https服務的SSL憑證是要錢的，所以我們必須找一個網路上提供的免費程式空間並且提供https的伺服器來放置程式
 ---
 
-# Heroku 帳號申請
+# 申請 Heroku 帳號
 
 {% hint style="success" %}
 Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
