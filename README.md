@@ -10,5 +10,7 @@
 
 {% page-ref page="first-bot-windows.md" %}
 
+{% page-ref page="first-bot-mac.md" %}
+
 
 
