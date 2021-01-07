@@ -10,7 +10,7 @@ LINE Developer 👉 [https://developers.line.biz/zh-hant/](https://developers.li
 
 首次登入，需輸入開發人員的【Name】與【Email】，勾選同意開發者協議後，按【Confirm】確認，再按【Register】註冊
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
 ### step2. Create a new provider
 
@@ -40,11 +40,11 @@ Channel ID、Channel Secret及Channel Access Token必須記錄下來
 
 #### 👉 Channel ID
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 #### 👉 Channel Secret
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 #### 👉 Channel Access Token
 

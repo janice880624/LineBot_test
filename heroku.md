@@ -11,21 +11,21 @@ Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
 
 #### step1. 申請 Heroku 帳號
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 #### step2. 填寫資料，語言選擇 【Node.js】，完成後按下建立
 
 ![](.gitbook/assets/image.png)
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 #### step3. 按下【New】開啟選單，點選【Create new app】
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 #### step4. 輸入【App name】，然後點選【Create app】
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 #### step5. 到【Setting】的頁面
 
@@ -35,7 +35,7 @@ Heroku 👉 [https://www.heroku.com/](https://www.heroku.com/)
 
 📢請用複製的不要自己打，它真滴很長喔!!!!
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 
 

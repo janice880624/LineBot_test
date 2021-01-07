@@ -8,7 +8,7 @@
 
 ### 😷 程式區
 
-{% page-ref page="first-bot.md" %}
+{% page-ref page="first-bot-windows.md" %}
 
 
 
