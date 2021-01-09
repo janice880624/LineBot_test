@@ -141,7 +141,11 @@ function processText(myMsg) {
 }
 ```
 
+#### 👉 上傳三步驟
 
+1. `git add .`
+2. `git commit -am "註解"`
+3. `git push heroku master`
 
-
+![](.gitbook/assets/jie-tu-20210109-xia-wu-2.58.37.png)
 
