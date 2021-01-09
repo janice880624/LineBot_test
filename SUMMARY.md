@@ -5,5 +5,5 @@
 * [申請 Heroku 帳號](heroku.md)
 * [建立第一個程式 🐦- windows](first-bot-windows.md)
 * [建立第一個程式 🐦- mac](first-bot-mac.md)
-* [用 LineBot 點燈](linebot_led.md)
+* [用 LineBot 控制三色led燈](linebot_led.md)
 
