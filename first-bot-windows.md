@@ -85,7 +85,7 @@ node_modules
 
 #### 👉 輸入資訊
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 #### 👉 初始化
 
