@@ -44,6 +44,10 @@ description: 使用 notify
 
 ![](.gitbook/assets/jie-tu-20210110-xia-wu-4.26.50.png)
 
+### 👉 硬體接線
+
+![](.gitbook/assets/jie-tu-20210110-xia-wu-8.26.15.png)
+
 ### 👉 程式修改
 
 #### step1. 安裝套件
