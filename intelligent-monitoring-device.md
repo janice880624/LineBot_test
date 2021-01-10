@@ -26,17 +26,21 @@ description: 使用 notify
 
 ![](.gitbook/assets/jie-tu-20210110-xia-wu-3.19.17.png)
 
+#### step5. 指定權杖名稱
+
+![](.gitbook/assets/jie-tu-20210110-xia-wu-3.35.03.png)
+
+#### step6. 複製權杖
 
 
 
+![](.gitbook/assets/jie-tu-20210110-xia-wu-3.43.00.png)
 
 
 
+#### step7. 查看是否成功
 
+![](.gitbook/assets/jie-tu-20210110-xia-wu-4.25.13.png)
 
-
-
-
-
-
+![](.gitbook/assets/jie-tu-20210110-xia-wu-4.26.50.png)
 
