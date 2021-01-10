@@ -22,7 +22,9 @@ description: 使用 notify
 
 ![](.gitbook/assets/jie-tu-20210110-xia-wu-3.16.12.png)
 
-step4.
+#### step4. 發行權杖
+
+![](.gitbook/assets/jie-tu-20210110-xia-wu-3.19.17.png)
 
 
 
