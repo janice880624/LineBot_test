@@ -6,4 +6,5 @@
 * [建立第一個程式 🐦- windows](first-bot-windows.md)
 * [建立第一個程式 🐦- mac](first-bot-mac.md)
 * [用 LineBot 控制三色led燈](linebot_led.md)
+* [智能監控裝置](intelligent-monitoring-device.md)
 

@@ -33,7 +33,19 @@ var server = app.listen(process.env.PORT || 8080, function() {
 });
 ```
 
-#### 👉 設定開發版
+#### 👉  安裝套件並引入
+
+在 terminal 或者 cmd 輸入以下兩個指令安裝
+
+1. `npm install webduino-js --save`
+2. `npm install webduino-blockly --save`
+
+```javascript
+require('webduino-js');
+require('webduino-blockly');
+```
+
+#### 👉  設定開發版
 
 ![](.gitbook/assets/jie-tu-20210109-xia-wu-3.09.09.png)
 
@@ -64,7 +76,7 @@ boardReady(myBoardVars, true, function (board) {
 });
 ```
 
-#### 👉 修改原本機器人收訊息的程式 （修改中）
+#### 👉 修改原本機器人收訊息的程式 
 
 ```javascript
 bot.on('message', function (event) {
