@@ -12,6 +12,8 @@
 
 {% page-ref page="first-bot-mac.md" %}
 
+{% page-ref page="linebot\_led.md" %}
+
 {% page-ref page="intelligent-monitoring-device.md" %}
 
 
