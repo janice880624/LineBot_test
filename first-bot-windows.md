@@ -77,39 +77,39 @@ node_modules
 
 #### 👉 打開 cmd，跟剛剛一樣先導到自己的資料夾
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
 #### 👉 登入 heroku
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 #### 👉 輸入資訊
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 #### 👉 初始化
 
-![](.gitbook/assets/image%20%2828%29.png)
+📣 資料夾名稱要寫對，否則會有 error
+
+![](.gitbook/assets/image%20%2850%29.png)
 
 #### 👉 新增檔案，並且給予註解
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
 #### 👉 上傳
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 #### 👉 回到 heroku 【Settings】中的【Domains】 複製右側網址
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 #### 👉 複製到 line 的【Webhook settings】中，完成後按下【Update】，再按下【Verify】
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2853%29.png)
 
-![&#x6309;&#x4E0B;&#x9A57;&#x8B49;](.gitbook/assets/image%20%2841%29.png)
-
-![&#x4F60;&#x6210;&#x529F;&#x4E86;&#x5594; !!](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 
 #### 👉 測試
 
