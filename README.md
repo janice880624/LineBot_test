@@ -12,5 +12,9 @@
 
 {% page-ref page="first-bot-mac.md" %}
 
+{% page-ref page="intelligent-monitoring-device.md" %}
+
+
+
 
 
