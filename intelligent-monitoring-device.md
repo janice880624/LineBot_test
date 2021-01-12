@@ -4,6 +4,10 @@ description: 使用 notify
 
 # 智能監控裝置
 
+### 👉 硬體接線圖
+
+![](https://lh4.googleusercontent.com/UV_cHa7kyoP-wheXeP8mVrSa4npAaLRDCML0VLgb9DZfZi3F54yrOmll6ypzOkmgXtWlMUpSaNTPXcsDqdr-7Y45d4rcaYO5nrD49NTvxTKYZiGfxE2jz73yktB-J0S9eEg9Tadr-A8)
+
 ### 👉 申請 LINE Notify 權杖
 
 #### step1. 連到申請網站
