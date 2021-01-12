@@ -8,6 +8,18 @@ description: 使用 notify
 
 ![](https://lh4.googleusercontent.com/UV_cHa7kyoP-wheXeP8mVrSa4npAaLRDCML0VLgb9DZfZi3F54yrOmll6ypzOkmgXtWlMUpSaNTPXcsDqdr-7Y45d4rcaYO5nrD49NTvxTKYZiGfxE2jz73yktB-J0S9eEg9Tadr-A8)
 
+#### 超音波
+
+1. VCC ➡ VCC
+2. Trig ➡ 14
+3. Echo ➡ 16
+4. Gnd ➡GND
+
+LED 
+
+1. 長腳 ➡ 5
+2. 短腳 ➡ RX
+
 ### 👉 申請 LINE Notify 權杖
 
 #### step1. 連到申請網站
