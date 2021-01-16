@@ -10,7 +10,7 @@
 
 ```javascript
 {
-  "name": "bottest",
+  "name": "你的資料夾名稱",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
