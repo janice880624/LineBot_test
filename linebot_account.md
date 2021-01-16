@@ -32,7 +32,7 @@ LINE Developer 👉 [https://developers.line.biz/zh-hant/](https://developers.li
 
 ### 👉 勾選條款後按【Create】
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2836%29%20%281%29%20%283%29%20%284%29.png)
 
 ## step4. 記錄資訊
 
