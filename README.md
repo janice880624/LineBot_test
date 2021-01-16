@@ -16,4 +16,3 @@
 
 {% page-ref page="intelligent-monitoring-device.md" %}
 
-
