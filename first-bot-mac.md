@@ -10,7 +10,7 @@
 
 ```text
 {
-  "name": "bottest",
+  "name": "你的資料夾名稱",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -36,7 +36,7 @@ npm install linebot express --save
 
 ## 👉 完成後，剛剛的 `package.json` 會多出【dependencies 】
 
-![](.gitbook/assets/jie-tu-20210107-shang-wu-11.47.31%20%281%29%20%281%29.png)
+![](.gitbook/assets/jie-tu-20210107-shang-wu-11.47.31%20%281%29%20%283%29.png)
 
 ## 👉 在資料夾中建立一個`index.js`檔案📄，內容如下
 
