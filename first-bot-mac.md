@@ -2,7 +2,7 @@
 
 ## 👉 建立一個資料夾📁 \(自行命名\)
 
-![](.gitbook/assets/jie-tu-20210107-shang-wu-11.40.18%20%282%29.png)
+![](.gitbook/assets/jie-tu-20210107-shang-wu-11.40.18%20%283%29.png)
 
 ## 👉 建立一個`package.json`的純文字檔案📄，並輸入內容如下\(name 請根據你建的檔案輸入\)
 
@@ -36,20 +36,23 @@ npm install linebot express --save
 
 ## 👉 完成後，剛剛的 `package.json` 會多出【dependencies 】
 
-![](.gitbook/assets/jie-tu-20210107-shang-wu-11.47.31%20%281%29%20%283%29.png)
+![](.gitbook/assets/jie-tu-20210107-shang-wu-11.47.31%20%281%29%20%283%29%20%283%29.png)
 
 ## 👉 在資料夾中建立一個`index.js`檔案📄，內容如下
 
 ```javascript
+// line套件設定
 var linebot = require('linebot');
 var express = require('express');
 
+// line 帳號設定
 var bot = linebot({
   channelId: '你自己Line的channelId',
   channelSecret: '你自己Line的channelSecret',
   channelAccessToken: '你自己Line的channelAccessToken'
 });
 
+// 聊天機器人回話設定
 bot.on('message', function(event) {
   if (event.message.type = 'text') {
     var msg = event.message.text;
@@ -61,10 +64,12 @@ bot.on('message', function(event) {
   }
 });
 
+// webhook 設定
 const app = express();
 const linebotParser = bot.parser();
 app.post('/', linebotParser);
 
+// port 設定
 var server = app.listen(process.env.PORT || 8080, function() {
   var port = server.address().port;
   console.log('目前的port是', port);
