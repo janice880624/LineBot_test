@@ -39,15 +39,18 @@ npm install linebot express --save
 ## 👉 在資料夾中建立一個`index.js`檔案📄，內容如下
 
 ```javascript
+// line套件設定
 var linebot = require('linebot');
 var express = require('express');
 
+// line 帳號設定
 var bot = linebot({
   channelId: '你自己Line的channelId',
   channelSecret: '你自己Line的channelSecret',
   channelAccessToken: '你自己Line的channelAccessToken'
 });
 
+// 聊天機器人回話設定
 bot.on('message', function(event) {
   if (event.message.type = 'text') {
     var msg = event.message.text;
@@ -59,10 +62,12 @@ bot.on('message', function(event) {
   }
 });
 
+// webhook 設定
 const app = express();
 const linebotParser = bot.parser();
 app.post('/', linebotParser);
 
+// port 設定
 var server = app.listen(process.env.PORT || 8080, function() {
   var port = server.address().port;
   console.log('目前的port是', port);
